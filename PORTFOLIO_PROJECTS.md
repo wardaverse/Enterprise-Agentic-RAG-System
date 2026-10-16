@@ -1,6 +1,6 @@
 # Ankit Kumar Singh — AI Engineering Portfolio
 
-This index presents seven flagship projects as managed engineering systems with explicit delivery roadmaps, evidence boundaries, risks, and next milestones.
+This index presents eight flagship projects as managed engineering systems with explicit delivery roadmaps, evidence boundaries, risks, and next milestones.
 
 **Recruiters / hiring managers:** [Start with the 10–15 minute evaluation path](https://github.com/singhankitsrf/singhankitsrf/blob/main/RECRUITER_START_HERE.md)  
 **Technical writing / Evidence-First AI Systems:** [Read the publication source library](https://github.com/singhankitsrf/singhankitsrf/tree/main/writing)  
@@ -12,6 +12,7 @@ This index presents seven flagship projects as managed engineering systems with 
 | Project | Engineering focus | Project charter | Roadmap / evidence |
 |---|---|---|---|
 | [PG-GECR — Array research companion](https://github.com/singhankitsrf/singhankitsrf/tree/main/projects/pg-gecr) | Auditable AI · provenance · uncertainty · human review · published research | [PROJECT.md](https://github.com/singhankitsrf/singhankitsrf/blob/main/projects/pg-gecr/PROJECT.md) | [Evidence & runnable checks](https://github.com/singhankitsrf/singhankitsrf/tree/main/projects/pg-gecr#run-locally) |
+| [OtoSeva AI](https://github.com/singhankitsrf/singhankitsrf/tree/main/otoseva) | Healthcare AI productization · MONAI · capture QA · calibration · uncertainty-aware referral | [Product page](https://rawcdn.githack.com/singhankitsrf/singhankitsrf/db07c704b5e6d71668154c5b2f98dee72b8ba075/otoseva/index.html) | [Interactive demo](https://rawcdn.githack.com/singhankitsrf/singhankitsrf/db07c704b5e6d71668154c5b2f98dee72b8ba075/otoseva/demo.html) |
 | [AgentForge Enterprise](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG) | Agentic AI · LangGraph · LangChain · MCP · RAG · governance | [PROJECT.md](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PROJECT.md) | [Roadmap #1](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/issues/1) |
 | [Liver Wala](https://github.com/singhankitsrf/singhankitsrf/tree/main/projects/telemedicine-platform) | Live telemedicine · digital-health product engineering · real-time workflow | [PROJECT.md](https://github.com/singhankitsrf/singhankitsrf/blob/main/projects/telemedicine-platform/PROJECT.md) | [Production status](https://github.com/singhankitsrf/singhankitsrf/blob/main/projects/telemedicine-platform/PRODUCTION_STATUS.md) · [HF](https://huggingface.co/spaces/singhankit491/lw-telemedicine-product) |
 | [OtoVision MLOps](https://github.com/singhankitsrf/Otovision-MLOps) | Medical CV · PyTorch · MLOps · Docker · Kubernetes | [PROJECT.md](https://github.com/singhankitsrf/Otovision-MLOps/blob/main/PROJECT.md) | [Roadmap #3](https://github.com/singhankitsrf/Otovision-MLOps/issues/3) |
@@ -23,7 +24,7 @@ This index presents seven flagship projects as managed engineering systems with 
 
 - **Agentic / GenAI:** LangGraph, LangChain, MCP, RAG, tool governance, human approval, evaluation
 - **Digital-health product engineering:** role-aware journeys, scheduling, stateful consultation workflow, browser communication, operational administration
-- **Computer vision / Healthcare AI:** leakage-aware imaging pipeline, calibration, uncertainty routing, explainability
+- **Computer vision / Healthcare AI:** leakage-aware imaging pipeline, MONAI workflow engineering, capture quality control, calibration, uncertainty routing, explainability and human-supervised referral
 - **AWS AI platform:** SageMaker Pipelines, Model Registry, async inference, serverless workflow, Terraform
 - **NLP ReleaseOps:** reproducible modeling, regression gates, security checks, portable inference, CI/CD
 - **Azure data platform:** PySpark, Databricks, Delta Lake, streaming, medallion architecture, data quality
@@ -39,12 +40,13 @@ This index presents seven flagship projects as managed engineering systems with 
 ## Recommended portfolio order
 
 1. **PG-GECR — Array publication companion** — publication-backed evaluation, provenance and responsible-AI architecture; runnable policy and aggregate audit
-2. **AgentForge Enterprise** — strongest GenAI / AI-platform signal
-3. **Liver Wala** — strongest live digital-health product / end-to-end workflow signal
-4. **OtoVision MLOps** — strongest computer-vision / healthcare-AI signal
-5. **OtoSage AWS** — strongest AWS / AI-platform architecture signal
-6. **ClinRoute NLP ReleaseOps** — strongest reproducible NLP / CI-CD signal
-7. **MedLake Azure PySpark** — strongest data-platform / streaming signal
+2. **OtoSeva AI** — strongest healthcare-AI productization / MONAI / human-supervised referral / startup-commercialization signal
+3. **AgentForge Enterprise** — strongest GenAI / AI-platform signal
+4. **Liver Wala** — strongest live digital-health product / end-to-end workflow signal
+5. **OtoVision MLOps** — strongest computer-vision / healthcare-AI signal
+6. **OtoSage AWS** — strongest AWS / AI-platform architecture signal
+7. **ClinRoute NLP ReleaseOps** — strongest reproducible NLP / CI-CD signal
+8. **MedLake Azure PySpark** — strongest data-platform / streaming signal
 
 ## Thought-leadership bridge
 
