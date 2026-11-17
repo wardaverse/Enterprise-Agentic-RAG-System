@@ -2,7 +2,7 @@
 
 **Governed Agentic RAG + Tool-Use Platform with LangGraph, LangChain, MCP, Evaluation, Observability, and Human Approval**
 
-> Portfolio project by **Ankit Kumar Singh** for AI Lead / Staff AI Engineer / GenAI Architect / AI Platform Architect positioning.
+> Portfolio project by **Warda Shafiq** for AI Lead / Staff AI Engineer / GenAI Architect / AI Platform Architect positioning.
 
 AgentForge Enterprise is a production-oriented reference implementation for building auditable LLM agents that can retrieve evidence, select tools, enforce policy, pause for human approval, and emit machine-readable execution traces. It deliberately separates **executed evidence** from **architecture claims**: the default demo works without an API key using a deterministic planner, while real LLM providers can be enabled explicitly.
 
@@ -169,7 +169,7 @@ tests/              policy/retrieval/API-contract tests
 ## Project management
 
 - **Project charter:** [`PROJECT.md`](PROJECT.md)
-- **Live execution roadmap:** [Project Roadmap #1](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/issues/1)
+
 - **Five-project portfolio index:** [`PORTFOLIO_PROJECTS.md`](PORTFOLIO_PROJECTS.md)
 
 ## Technology signal
@@ -182,6 +182,6 @@ MIT
 
 ## Evidence and real-world implementation
 
-Personally implemented by Ankit Kumar Singh as part of his applied AI engineering work supporting healthcare and multidisciplinary research environments, including ENT-related work at AIIMS Raipur and the Indo–Norway IReSOpM consortium supported by DST (India) and RCN (Norway).
+Personally implemented by Warda Shafiq as part of his applied AI engineering work supporting healthcare and multidisciplinary research environments, including ENT-related work at AIIMS Raipur and the Indo–Norway IReSOpM consortium supported by DST (India) and RCN (Norway).
 
 Evidence is deliberately separated into repository-verifiable artifacts and author-confirmed institutional execution. See [EVIDENCE.md](EVIDENCE.md) for the verification matrix, reviewer path and claim boundaries.
